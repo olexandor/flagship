@@ -36,7 +36,7 @@
     "@brandingbrand/fssalesforce": "^4.1.0",
     "@brandingbrand/fsshopify": "^4.1.0",
     "@brandingbrand/fsweb": "^4.1.0",
-    "@brandingbrand/react-native-leanplum": "^2.0.3",
+    "@brandingbrand/react-native-leanplum": "^3.0.1",
     "credit-card-type": "^7.0.0",
     "jsc-android": "241213.x.x",
     "lodash-es": "^4.17.10",
